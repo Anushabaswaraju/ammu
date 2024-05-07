@@ -83,8 +83,10 @@ def print_sum_of_previous_and_current():
         previous_number = current_number
 
 print_sum_of_previous_and_current()
+```
     
-## video
+## Video
+```
 import cv2
 
 def capture_video():
