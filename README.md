@@ -1,4 +1,7 @@
 ## bounding boxes
+```
+
+
 import os
 import csv
 from PIL import Image, ImageDraw
@@ -48,8 +51,10 @@ with open(csv_file, 'r') as file:
             cropped_img.save(os.path.join(output_dir, f"{i}_{image_name}"))  
         full_image_with_boxes = draw_boxes(image, boxes)
         full_image_with_boxes.save(os.path.join(output_dir, f"full_{image_name}"))
+```
         
 ## histrogram
+```
 
 ##import numpy as np
 import cv2 as cv
@@ -64,8 +69,10 @@ for i,col in enumerate(color):
  plt.plot(histr,color = col)
  plt.xlim([0,256])
 plt.show()
+```
 
 ## tasksum 
+```
 
 def print_sum_of_previous_and_current():
     previous_number = 0
