@@ -75,6 +75,11 @@ for i,col in enumerate(color):
 plt.show()
 This loop calculates and plots the histograms for each color channel (blue, green, and red) of the image. It uses the cv.calcHist() function to compute the histogram for each channel. Then, it plots the histograms using Matplotlib. The plt.xlim([0,256]) line sets the x-axis limit to range from 0 to 256 (the possible pixel intensity values). Finally, plt.show() displays the plotted histograms.```
 
+## input
+
+![lion](https://github.com/Anushabaswaraju/ammu/assets/169051819/36333441-9b4d-4952-93dd-2c688f9264d4)
+
+
 ## tasksum 
 ```
 This function iterates over a range of numbers from 1 to 10 (inclusive) using a for loop.
