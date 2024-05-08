@@ -79,7 +79,6 @@ This loop calculates and plots the histograms for each color channel (blue, gree
 
 ![lion](https://github.com/Anushabaswaraju/ammu/assets/169051819/36333441-9b4d-4952-93dd-2c688f9264d4)
 
-
 ## tasksum 
 ```
 This function iterates over a range of numbers from 1 to 10 (inclusive) using a for loop.
