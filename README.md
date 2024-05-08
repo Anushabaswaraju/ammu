@@ -77,7 +77,7 @@ This loop calculates and plots the histograms for each color channel (blue, gree
 
 ##input 
 
-![lion](https://github.com/Anushabaswaraju/ammu/assets/169051819/549ca75a-7899-4dd7-9ea6-d99fc4cc5f21)
+![deepikap](https://github.com/Anushabaswaraju/ammu/assets/169051819/d0a77220-8afe-47ac-ba02-b1392e5365f4)
 
 ## tasksum 
 ```
