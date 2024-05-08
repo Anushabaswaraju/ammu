@@ -80,7 +80,7 @@ This loop calculates and plots the histograms for each color channel (blue, gree
 ![deepikap](https://github.com/Anushabaswaraju/ammu/assets/169051819/d0a77220-8afe-47ac-ba02-b1392e5365f4)
 
 ## tasksum 
-```
+
 This function iterates over a range of numbers from 1 to 10 (inclusive) using a for loop.
 
 def print_sum_of_previous_and_current():
