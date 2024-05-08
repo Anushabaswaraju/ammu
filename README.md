@@ -55,7 +55,7 @@ with open(csv_file, 'r') as file:
         
 ## histrogram
 ```
-
+![lion](https://github.com/Anushabaswaraju/ammu/assets/169051819/8a6ed3e1-e7b2-4ffc-891c-ee4b4806c197)
 ##import numpy as np
 import cv2 as cv
 from matplotlib import pyplot as plt
